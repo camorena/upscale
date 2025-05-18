@@ -1,6 +1,7 @@
 {
-  "name": "scaleup-ai-suite",
+  "name": "UpScale",
   "version": "1.0.0",
+  "description": "Monorepo for Upscale – world-class solo AI services platform",
   "private": true,
   "scripts": {
     "dev": "next dev",

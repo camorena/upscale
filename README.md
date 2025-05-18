@@ -1,6 +1,6 @@
-# ScaleUp AI Suite
+# UpScale AI Suite
 
-**ScaleUp** is an AI-powered platform tailored for small businesses. It offers modular, cutting-edge tools for automating customer support, generating marketing content, managing invoices, and tracking analytics with ease.
+**UpScale** is an AI-powered platform tailored for small businesses. It offers modular, cutting-edge tools for automating customer support, generating marketing content, managing invoices, and tracking analytics with ease.
 
 ## 🚀 Features
 
@@ -22,8 +22,8 @@
 ## 🛠️ Getting Started
 
 ```bash
-git clone https://github.com/your-org/scaleup-suite.git
-cd scaleup-suite
+git clone https://github.com/your-org/UpScale-suite.git
+cd UpScale-suite
 cp .env.example .env
 npm install
 npm run dev
@@ -47,4 +47,4 @@ Automatically deploys on Vercel from the `main` branch.
 
 ## 📄 License
 
-MIT © 2025 ScaleUp AI Inc.
+MIT © 2025 UpScale AI Inc.
