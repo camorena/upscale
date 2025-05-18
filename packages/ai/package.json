@@ -1,0 +1,12 @@
+{
+  "name": "@scaleup/ai",
+  "version": "1.0.0",
+  "main": "index.js",
+  "private": true,
+  "scripts": {
+    "dev": "",
+    "build": "",
+    "test": "vitest"
+  },
+  "dependencies": {}
+}

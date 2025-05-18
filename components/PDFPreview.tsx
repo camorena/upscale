@@ -1,0 +1,1 @@
+// components/PDFPreview.tsx placeholder

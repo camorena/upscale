@@ -1,0 +1,1 @@
+// app/landing/page.tsx placeholder

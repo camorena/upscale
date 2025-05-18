@@ -1,0 +1,22 @@
+{
+  "name": "@scaleup/web",
+  "version": "1.0.0",
+  "main": "index.js",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "test": "vitest"
+  },
+  "dependencies": {
+    "html2pdf.js": "^0.10.3",
+    "next": "^15.3.2",
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0"
+  },
+  "devDependencies": {
+    "@types/node": "^22.15.18",
+    "@types/react": "^19.1.4",
+    "typescript": "^5.8.3"
+  }
+}

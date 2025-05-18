@@ -1,0 +1,1 @@
+// components/PDFDocument.tsx placeholder
